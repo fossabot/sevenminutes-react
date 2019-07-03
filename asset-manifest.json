@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sevenminutes-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sevenminutes-react/static/js/main.ab2210ea.chunk.js",
+    "main.js.map": "/sevenminutes-react/static/js/main.ab2210ea.chunk.js.map",
+    "runtime~main.js": "/sevenminutes-react/static/js/runtime~main.4bf2e971.js",
+    "runtime~main.js.map": "/sevenminutes-react/static/js/runtime~main.4bf2e971.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/sevenminutes-react/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/sevenminutes-react/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/sevenminutes-react/index.html",
+    "precache-manifest.13327d0775725928fe369f445d8e85d9.js": "/sevenminutes-react/precache-manifest.13327d0775725928fe369f445d8e85d9.js",
+    "service-worker.js": "/sevenminutes-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sevenminutes-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/sevenminutes-react/static/media/logo.5d5d9eef.svg"
+  }
+}
